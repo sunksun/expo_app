@@ -15,7 +15,7 @@ const App = () => {
   <Stack.Screen
       name="Splash"
       component={Splash}
-      options={{title: 'ยินดีต้อนรับ'}}
+      options={{title: 'ยินดีต้อนรับ8iy'}}
     />
     <Stack.Screen
       name="Home"
